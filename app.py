@@ -17,7 +17,7 @@ from PIL import Image, ImageDraw, ImageFont, Image
 workbook_alunos = openpyxl = openpyxl.load_workbook('planilha_alunos.xlsx')
 sheet_alunos = workbook_alunos['Sheet1']
 
-for indice, linha in enumerate(sheet_alunos.iter_rows(min_row=2, max_row=2)):
+for indice, linha in enumerate(sheet_alunos.iter_rows(min_row=2)):
     #Cada célula que contem a info que precisamos
     nome_curso = linha[0].value # Nome do curso
     nome_participante = linha[1].value # Nome do participante
