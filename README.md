@@ -1,4 +1,4 @@
-# Preenchimento-automatico-de-certificados
+# Preenchimento-automático-de-certificados
 Este aplicativo automatiza o processo de preenchimento de informações em certificados utilizando dados de uma planilha. Aqui está como ele funciona:
 
 1. **Entrada de Dados**: O usuário fornece uma planilha (no formato xlsx) contendo informações como o nome do curso, nome do participante, tipo de participação, datas de início e término, carga horária, data de emissão do certificado, e possivelmente assinaturas.
