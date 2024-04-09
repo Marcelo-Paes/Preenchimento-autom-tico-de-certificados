@@ -2,7 +2,7 @@
 
 # Pegar os dados da planilha
 Tipo nome do curso, nome partivipante, tipo de participação, data do inicio, data final,
-carga horaia, data de emissão do certificado e as assinaturas do Gesto geral, do coodenador e dos alunos.
+carga horaia, data de emissão do certificado e as assinaturas do Gesto geral, do coodenador e dos aluno.
 
 
 
